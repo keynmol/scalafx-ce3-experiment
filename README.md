@@ -12,6 +12,8 @@ published.
 
 Anything that can be described in 140 characters is not worth having.
 
+Also, see Effex: https://github.com/indoorvivants/effex, which has more examples (but it's also not something I'm currently working on)
+
 ## Running
 
 Why?
